@@ -1,5 +1,5 @@
 # Dissertation Proposal -- Chapters 3 and 4 Outline
-**A. How is the landscape designed?**
+**A. How is the landscape designed?**  
 Humans have taken an active role in shaping their environments, most noticeably
 where human populations gather and interact. These spaces historically have been
 the epicenters of human activity. Yet the drastic re-writing on the surface of
@@ -40,7 +40,7 @@ There are mental wellbeing concerns woven into the fabric of these arguments.
 They were convinced that increased contact with the natural world improves
 mental wellbeing from depression to even less understood issues such
 schizophrenia and other mentally manic disorders.  
-	*b. to improve mental wellbeing*
+	*b. to improve mental wellbeing*  
 Research over the past 150 years has indicated concerns regarding mental
 wellbeing (including schizophrenia) being negatively affected by urban areas.
 From U.S. 1840 census questions inquiring into the number of "crazy" persons
@@ -51,7 +51,7 @@ and the mental wellbeing of the city-dweller. Howard also attempted to address
 this in his town-country magnet. Howard identified the city featuring
 "isolation of crowds", "crowded dwellings" and an assortment of stressful
 environmental and social factors that he believed an increase in contact with
-nature counteract.  
+nature counteract.    
 	*c. to increase contact with green space and green infrastructure*  
 	Clearly, Howard and Olmsted thought the best approach to improving urban
 society's quality of life is through improved atmospheric conditions, but also
@@ -63,9 +63,9 @@ green infrastructure and space (Dooling, 2009; Wolch et al., 2014). There is a
 fine line between providing enough eco-services and causing a gentrification of
 a neighborhood due to the popularity and abundance of green space and eco-
 services that supplants the local population with wealthier people who want the
-location for proximity as well as green space.
+location for proximity as well as green space.  
 
-**B. How has landscape architecture approached these goals historically?**
+**B. How has landscape architecture approached these goals historically?**  
 Historically speaking, these challenges have been met with opposition. Greed
 and other ulterior motives have hijacked the ideals of Olmsted, Howard, and
 others, resulting in some successes in the implementation of green space. Yet,
@@ -78,10 +78,12 @@ the cycle continues without improvement for the vulnerable populations.
 
 **C. What are some avenues to increase each of these avenues for positive
 neighborhood attitudes?**  
+
 **D. Application to the current Edison-Eastlake neighborhood.**  
 	*a. Testing of strategies through micro-climate modeling*  
 	*b. Discussion of the strengths and weaknesses of different mitigation
 	strategies in their ability to balance improvements of different goals.*  
+	   
 **E. Extreme heat and Schizophrenia**  
 	*a. What are the best approaches to reducing the environmental exposure to
 	stressors for schizophrenic crises and episodes?*  
