@@ -8,10 +8,9 @@ preserve the non-human landscapes as beneficial to humans rather than
 burdensome. To that aim, architects begun recreating urban spaces to include
 the natural and native features that pre-dated human influence in the space.
 The growing number of concerned architects led to the earliest environmentalism
-movements in the Western European societies.
-
+movements in the Western European societies.  
 	*a. to improve thermal comfort (reduce air temperature and mean radiant
-		temperature)*
+		temperature)*  
 Howard (in England) and Olmsted (in the United States) led the movement on
 interspersing green spaces within the urban cities of England and the U.S.
 Their work was not only focused on the environmental and ecological benefits of
@@ -40,8 +39,7 @@ only were focused on the physical improvements to the city and the city-dweller.
 There are mental wellbeing concerns woven into the fabric of these arguments.
 They were convinced that increased contact with the natural world improves
 mental wellbeing from depression to even less understood issues such
-schizophrenia and other mentally manic disorders.
-
+schizophrenia and other mentally manic disorders.  
 	*b. to improve mental wellbeing*
 Research over the past 150 years has indicated concerns regarding mental
 wellbeing (including schizophrenia) being negatively affected by urban areas.
@@ -53,10 +51,9 @@ and the mental wellbeing of the city-dweller. Howard also attempted to address
 this in his town-country magnet. Howard identified the city featuring
 "isolation of crowds", "crowded dwellings" and an assortment of stressful
 environmental and social factors that he believed an increase in contact with
-nature counteract.
-
-	*c. to increase contact with green space and green infrastructure*
-Clearly, Howard and Olmsted thought the best approach to improving urban
+nature counteract.  
+	*c. to increase contact with green space and green infrastructure*  
+	Clearly, Howard and Olmsted thought the best approach to improving urban
 society's quality of life is through improved atmospheric conditions, but also
 via increased direct contact with the natural, non-human world that had been
 (and to some extent, still is) removed from the urban areas of society. Yet,
@@ -80,15 +77,15 @@ vulnerable are moved to locations that have not seen such improvements and thus
 the cycle continues without improvement for the vulnerable populations.
 
 **C. What are some avenues to increase each of these avenues for positive
-neighborhood attitudes?**
-**D. Application to the current Edison-Eastlake neighborhood.**
-	*a. Testing of strategies through micro-climate modeling*
+neighborhood attitudes?**  
+**D. Application to the current Edison-Eastlake neighborhood.**  
+	*a. Testing of strategies through micro-climate modeling*  
 	*b. Discussion of the strengths and weaknesses of different mitigation
-	strategies in their ability to balance improvements of different goals.*
-**E. Extreme heat and Schizophrenia**
+	strategies in their ability to balance improvements of different goals.*  
+**E. Extreme heat and Schizophrenia**  
 	*a. What are the best approaches to reducing the environmental exposure to
-	stressors for schizophrenic crises and episodes?*
+	stressors for schizophrenic crises and episodes?*  
 	*b. How does landscape architecture help/hurt the schizophrenic population
-		in Phoenix?*
+		in Phoenix?*  
 	*c. Are strategies that maximize thermal comfort also aiding in reducing the
-		environmental exposure to schizophrenia crises stressors?*
+		environmental exposure to schizophrenia crises stressors?*  
