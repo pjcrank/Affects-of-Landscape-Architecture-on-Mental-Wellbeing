@@ -101,7 +101,6 @@ depressive and manic bipolar patients and incidents (Lee et al., 2002; Volpe et
 al., 2006). This points to a reduction in Mean Radiant Temperature (MRT) may
 further improve the ambient environment for schizophrenia than simply reducing air
 temperature.  
-
 	*b. How does landscape architecture help/hurt the schizophrenic population
 		in Phoenix?*  
 If reducing ambient stressors can improve the landscape of schizophrenia in
@@ -115,7 +114,6 @@ cause of schizophrenic crises, it does provide ways for easing the burden of
 this population while also benefiting the general public at the same time. If
 MRT is the better option to improving the thermal environment for schizophrenia,
 then Phoenix is a very dangerous locale for individuals with the disorder.
-
 	*c. Are strategies that maximize thermal comfort also aiding in reducing the
 		environmental exposure to schizophrenia crises stressors?*  
 Could MRT reductions be the best approach to analyzing the impact of mitigation
