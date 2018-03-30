@@ -113,7 +113,7 @@ causing schizophrenic episodes. While the ambient environment is not the only
 cause of schizophrenic crises, it does provide ways for easing the burden of
 this population while also benefiting the general public at the same time. If
 MRT is the better option to improving the thermal environment for schizophrenia,
-then Phoenix is a very dangerous locale for individuals with the disorder.
+then Phoenix is a very dangerous locale for individuals with the disorder.  
 	*c. Are strategies that maximize thermal comfort also aiding in reducing the
 		environmental exposure to schizophrenia crises stressors?*  
 Could MRT reductions be the best approach to analyzing the impact of mitigation
