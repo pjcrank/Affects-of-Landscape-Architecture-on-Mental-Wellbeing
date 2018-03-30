@@ -83,11 +83,40 @@ neighborhood attitudes?**
 	*a. Testing of strategies through micro-climate modeling*  
 	*b. Discussion of the strengths and weaknesses of different mitigation
 	strategies in their ability to balance improvements of different goals.*  
-	   
+
 **E. Extreme heat and Schizophrenia**  
 	*a. What are the best approaches to reducing the environmental exposure to
 	stressors for schizophrenic crises and episodes?*  
+The medical research continues to point to the importance of the hypothalamus
+for thermoregulation. This includes evidence that supports a blockage in the
+neurotransmission resulting in fatigue, hyperthermia, and hypothermia during
+exercise and in varying ambient thermal environments (Meussen et al., 2010;
+Roeland et al., 2010). Therefore, reducing ambient stressors such as extreme
+heat or extreme cold can reduce fatigue and improve the brain's ability to
+manage the transmission of information and regulation of the body. Additionally,
+there is some research to suggest that the amount of sunshine and solar
+radiation a person is exposed to can influence the likelihood of manic episodes
+of which, schizophrenia is related; however, studies have only looked at manic
+depressive and manic bipolar patients and incidents (Lee et al., 2002; Volpe et
+al., 2006). This points to a reduction in Mean Radiant Temperature (MRT) may
+further improve the ambient environment for schizophrenia than simply reducing air
+temperature.  
+
 	*b. How does landscape architecture help/hurt the schizophrenic population
 		in Phoenix?*  
+If reducing ambient stressors can improve the landscape of schizophrenia in
+Phoenix, then it is paramount to landscape architecture to provide structures
+that ease the burden on this vulnerable population. Many low-income, affordable
+housing, and transient populations are unable to choose their thermal conditions.
+This population also appears to overlap with the schizophrenic population. The
+design of urban form becomes essential to reducing the ambient stressors to
+causing schizophrenic episodes. While the ambient environment is not the only
+cause of schizophrenic crises, it does provide ways for easing the burden of
+this population while also benefiting the general public at the same time. If
+MRT is the better option to improving the thermal environment for schizophrenia,
+then Phoenix is a very dangerous locale for individuals with the disorder.
+
 	*c. Are strategies that maximize thermal comfort also aiding in reducing the
 		environmental exposure to schizophrenia crises stressors?*  
+Could MRT reductions be the best approach to analyzing the impact of mitigation
+strategies for the schizophrenic population?
